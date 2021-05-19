@@ -5,6 +5,8 @@ A compilation of React Native examples for the course DCIT 26 - Application Deve
 * https://snack.expo.io/@charlescabbage/hello-world-app
 * https://snack.expo.io/@charlescabbage/flexbox
 * https://snack.expo.io/@charlescabbage/goal-manager
+* https://snack.expo.io/@charlescabbage/random-user
 
 ## References
-* https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+* Flexbox - https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+* Networking - https://reactnative.dev/docs/network
